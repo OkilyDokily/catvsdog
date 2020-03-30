@@ -6,6 +6,7 @@
 ul{
   min-height: 60px;
   background-color: lightyellow;
+  padding-left: 5px;
 }
 
 button.btn{
