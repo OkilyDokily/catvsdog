@@ -8,6 +8,11 @@ ul{
   background-color: lightyellow;
 }
 
-button{
+button.btn{
   margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+body {
+  background-color: lightyellow;
 }
