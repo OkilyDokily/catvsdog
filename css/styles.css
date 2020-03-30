@@ -1,0 +1,13 @@
+.col-xs-6{
+  min-height: 50px;
+  background-color: gold;
+}
+
+ul{
+  min-height: 60px;
+  background-color: lightyellow;
+}
+
+button{
+  margin-bottom: 20px;
+}
