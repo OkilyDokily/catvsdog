@@ -16,3 +16,7 @@ button.btn{
 body {
   background-color: lightyellow;
 }
+
+li {
+  list-style: none;
+}
