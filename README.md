@@ -9,7 +9,7 @@
 _A page which shows how to append element to other elements_
 ## Setup/Installation Requirements
 
-_clone repo and open variable-scope-example.html in a browser._
+_clone repo and open the .html file in a browser._
 
 
 ## Known Bugs
